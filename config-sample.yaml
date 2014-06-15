@@ -1,0 +1,9 @@
+---
+test: false
+test_key: 00000000000000000000
+prod_key: ffffffffffffffffffff
+
+nameservers:
+    - ns1.softlayer.com
+    - ns2.softlayer.com
+
