@@ -3,7 +3,12 @@ test: false
 test_key: 00000000000000000000
 prod_key: ffffffffffffffffffff
 
+contacts:
+    admin: YOLO9999-GANDI
+    bill: YOLO9999-GANDI
+    owner: YOLO9999-GANDI
+    tech: YOLO9999-GANDI
+
 nameservers:
     - ns1.softlayer.com
     - ns2.softlayer.com
-
